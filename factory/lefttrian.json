@@ -1,0 +1,9 @@
+{
+	"name": "lefttrian",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d6789b1f-068d-46d1-91cb-752458e4c736",
+		"tenantId": "d60e51bd-42ee-4ca7-b749-5edbd8934a22"
+	}
+}
